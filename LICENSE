@@ -1,12 +1,29 @@
-Lectorium Proprietary License
+Lectorium Proprietary Software License
 
 Copyright (c) 2026 Lectorium
 All rights reserved.
 
-No permission is granted to use, copy, modify, merge, publish, distribute,
-sublicense, or sell this software, in whole or in part, without prior written
-authorization from the copyright holder.
+Permission is granted to download, install, and use the Lectorium software
+for its intended purpose.
 
-This repository may include third-party software components governed by their
-own licenses. Those third-party licenses remain applicable to their respective
-components.
+Except as expressly permitted above, no rights are granted to copy, modify,
+adapt, merge, publish, redistribute, sublicense, sell, or otherwise exploit
+the software, in whole or in part, without prior written authorization from
+the copyright holder.
+
+The source code of Lectorium is proprietary and is not licensed or distributed
+through this repository.
+
+Reverse engineering, decompilation, or attempts to derive the source code are
+not permitted, except where such restrictions are prohibited by applicable law.
+
+Lectorium may include third-party software, libraries, runtimes, or other
+components governed by their respective licenses. Those licenses remain
+applicable to the corresponding components and are not superseded by this
+license.
+
+No rights to the Lectorium name, trademarks, logos, visual identity, or other
+brand assets are granted under this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
