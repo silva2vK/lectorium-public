@@ -1,9 +1,19 @@
 # Política de Segurança
 
-Se você encontrou uma vulnerabilidade relacionada ao app Android do Lectorium,
-por favor **não abra uma issue pública**. Use o recurso de [report de
-vulnerabilidade privado](../../security/advisories/new) deste repositório
-(aba "Security" → "Report a vulnerability").
+Se você encontrou uma possível vulnerabilidade de segurança no Lectorium, **não publique os detalhes em uma issue, discussão ou outro canal público**.
 
-Vamos confirmar o recebimento e manter você informado sobre o andamento até a
-correção.
+Envie o relato diretamente para:
+
+**contato@lectorium.com.br**
+
+Inclua, sempre que possível:
+
+- uma descrição clara da vulnerabilidade;
+- passos para reproduzi-la;
+- versão do Lectorium utilizada;
+- dispositivo, sistema operacional ou navegador;
+- evidências que ajudem na análise.
+
+Evite divulgar publicamente detalhes técnicos da vulnerabilidade antes da correção.
+
+O relato será analisado e respondido pelo canal de contato informado acima.
